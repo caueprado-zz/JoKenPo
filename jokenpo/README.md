@@ -1,9 +1,9 @@
-#JokenPo
+# JokenPo
 
 Projeto de um jogo de JoKenPo utilizando o banco de dados baseado em grafo Neo4J
 a idéia é que sejam cadastradas as possíveis ações para os jogadores no formato 
 
-##Stack 
+## Stack 
 * Java 14;
 * Spring boot
 * Neo4J
